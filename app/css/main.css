@@ -16,5 +16,5 @@ input[type="search"]{-webkit-appearance:textfield;box-sizing:content-box}
 input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit-search-decoration{-webkit-appearance:none}
 fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}legend{border:0;padding:0}
 textarea{overflow:auto}optgroup{font-weight:bold}table{border-collapse:collapse;border-spacing:0}
-td,th{padding:0}body{text-align:center}body img{margin-top:10%;width:220px}body div{margin:60px auto;width:100px;text-align:center}
+td,th{padding:0}body{text-align:center}body .uc{margin-top:10%;width:220px}body div{margin:60px auto;width:100px;text-align:center}
 body div .logo{margin-top:40px;width:124px}body div a{text-decoration:none;font-size:10px;color:#2c2c2c}
