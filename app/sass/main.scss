@@ -2,7 +2,7 @@
 
 body {
   text-align: center;
-  img {
+  .uc {
     margin-top: 10%;
     width: 220px;
   }
@@ -10,6 +10,10 @@ body {
     margin: 60px auto;
     width: 100px;
     text-align: center;
+    .logo {
+      margin-top: 40px;
+      width: 124px;
+    }
     a {
       text-decoration: none;
       font-size: 10px;
